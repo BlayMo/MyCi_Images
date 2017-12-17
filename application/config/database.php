@@ -101,8 +101,8 @@ $db['default'] = array(
 $db['pdo'] = array(	
 	'dsn'	   => 'mysql:host=localhost;dbname=myci_images',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'BM050258',
+	'username' => '',
+	'password' => '',
 	'database' => 'myci_images',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
