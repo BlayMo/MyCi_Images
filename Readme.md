@@ -7,7 +7,7 @@ El acceso es de caracter privado, de tal forma que solo los usuarios autorizados
 Para la gestión de usuarios he utilizado la libreria [Codeigniter Ion-Auth](http://benedmunds.com/ion_auth/ "").
 
 
-Las tablas para crear la BD se encuentran en "myci_images.sql".
+Las tablas para crear la BD se encuentran en **"myci_images.sql"**.
 
 He creado tres niveles de acceso:
 > Administrador:
