@@ -1,4 +1,4 @@
-#MyCi_Images#
+MyCi_Images
 
 Sencilla y simple aplicación desarrollada con PHP 7.1.6. + Codeigniter 3.1.6 bajo el patrón HMVC para la gestión de imágenes realizadas con ocasión de un evento social.
 
