@@ -29,7 +29,7 @@ La aplicación se distribuye bajo licencia MIT.
 
 Agradezco cualquier comentario y/o sugerencia en [Mi mail](expresoweb2015@gmail.com "").
 
-[Demo de la aplicación](https://expresoweb.000webhostapp.com/MyCi_Images "").
+
 
 Diciembre de 2017.
 
